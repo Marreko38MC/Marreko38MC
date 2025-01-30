@@ -1,0 +1,11 @@
+name: Sethomeplugin
+version: 1.0
+author: Marreko38
+main: fr.marreko38.sethomeplugin.Main
+commands:
+  sethome:
+    description: Sert a set un home a la potition voulue
+  home:
+    description: Sert a se téléporter a son home
+  delhome:
+    description: Sert a supprimer le home voulue
